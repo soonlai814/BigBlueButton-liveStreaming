@@ -40,7 +40,7 @@ You need to set some environment variables to run the container.
 * BBB_CHAT_NAME - the username to join the meeting for chatting. (Default: Chat)
 
 ### Starting liveStreaming
-* wget -O docker-compose.yml https://raw.github.com/aau-zid/BigBlueButton-liveStreaming/1.0.0-beta.5/examples/docker-compose.yml.example
+* wget -O docker-compose.yml https://raw.github.com/soonlai814/BigBlueButton-liveStreaming/1.0.0-beta.5/examples/docker-compose.yml.example
 * (change configuration)
 * docker-compose up -d
 * docker-compose down 
